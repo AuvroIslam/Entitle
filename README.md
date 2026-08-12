@@ -12,11 +12,13 @@
 A portable, permissioned proof of what a person is *owed* —<br>
 that never carries what is *wrong with them*.
 
-[**Live prototype →**](https://entitle-passport.vercel.app) &nbsp;·&nbsp; [Deck](deck/Entitle.pptx)
+[**Live prototype →**](https://entitle-passport.vercel.app)
 
 <sub>AI Passport Ideathon 2026 &nbsp;·&nbsp; Track: Work &nbsp;·&nbsp; Lane: Build</sub>
 
 </div>
+
+<img src="assets/slide-title.png" alt="Entitle — carry the entitlement, never the diagnosis" width="100%">
 
 <br>
 
@@ -243,11 +245,5 @@ URI. Runs from `file://`, respects `prefers-reduced-motion`, and is built for bo
 and dark themes.
 
 <br>
-
-## The deck
-
-Twelve slides, built to the same brief. [Download the `.pptx` →](deck/Entitle.pptx)
-
-<img src="assets/slide-title.png" alt="Entitle title slide" width="100%">
 
 <img src="assets/slide-thankyou.png" alt="Prove what is necessary. Not everything about the person." width="100%">
