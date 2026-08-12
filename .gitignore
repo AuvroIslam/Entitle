@@ -1,0 +1,30 @@
+# working + scratch
+_scratch/
+demo/
+Inspiration/
+node_modules/
+.vercel
+
+# research and planning notes, not part of the submission
+20_Ideas.md
+AiPassPostInfo.md
+CompDeatils
+PLAN.md
+Research_WinningPatterns.md
+SUBMISSION.md
+Research_*.md
+
+# deck build inputs and intermediates (the built .pptx is committed)
+deck/preview/
+deck/logo_dark.png
+deck/logo288.png
+deck/build_deck.py
+
+# third-party template used only as a design reference
+*Portfolio Presentation.pptx
+
+# os
+Thumbs.db
+.DS_Store
+
+.vercel

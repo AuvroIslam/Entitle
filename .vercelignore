@@ -1,0 +1,9 @@
+_scratch/
+demo/
+Inspiration/
+deck/
+node_modules/
+*.md
+!README.md
+CompDeatils
+*.pptx
